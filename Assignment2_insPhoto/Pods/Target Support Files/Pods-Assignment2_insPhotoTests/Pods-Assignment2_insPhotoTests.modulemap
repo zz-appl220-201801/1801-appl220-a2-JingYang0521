@@ -1,0 +1,6 @@
+framework module Pods_Assignment2_insPhotoTests {
+  umbrella header "Pods-Assignment2_insPhotoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
